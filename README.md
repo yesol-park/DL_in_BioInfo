@@ -1,1 +1,1 @@
-# KSBi-BIML2023
+# Deep learning in bioinformatics
